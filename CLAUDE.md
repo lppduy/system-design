@@ -38,4 +38,6 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - Always include mode at the top of each session
 
 ## Progress
-- Module 0: Core Mental Models → not started
+- [x] M0-01 Latency Numbers + N+1
+- [ ] M0-02 Scaling reads vs writes
+- [ ] M0-03 Stateless vs stateful services
