@@ -53,9 +53,9 @@ Quick primers — cover these before diving into systems.
 
 | # | Topic | Why it matters |
 |---|-------|---------------|
-| 01 | Latency numbers every engineer should know | Without this, estimation is guesswork |
-| 02 | Scaling reads vs writes | Almost every design splits on this axis |
-| 03 | Stateless vs stateful services | Determines how you scale horizontally |
+| 01 | Latency numbers every engineer should know | [x] |
+| 02 | Scaling reads vs writes | [x] |
+| 03 | Stateless vs stateful services | [ ] |
 
 ## Module 1: Foundations
 
