@@ -42,3 +42,4 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M0-01 Latency Numbers + N+1
 - [x] M0-02 Scaling reads vs writes
 - [x] M0-03 Stateless vs stateful services
+- [x] M1-01 Load Balancing
