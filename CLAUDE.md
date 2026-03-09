@@ -34,10 +34,11 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 ```
 
 ## Notes
-- After each system is fully covered: create the .md file, update progress in CLAUDE.md and README.md, commit and push — without waiting for user to ask
+- After each topic is fully covered: create the .md file, update progress in CLAUDE.md and README.md, commit AND push — without waiting for user to ask
+- Always push immediately after committing — never leave commits unpushed
 - Always include mode at the top of each session
 
 ## Progress
 - [x] M0-01 Latency Numbers + N+1
 - [x] M0-02 Scaling reads vs writes
-- [ ] M0-03 Stateless vs stateful services
+- [x] M0-03 Stateless vs stateful services

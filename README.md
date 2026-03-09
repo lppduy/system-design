@@ -55,7 +55,7 @@ Quick primers — cover these before diving into systems.
 |---|-------|---------------|
 | 01 | Latency numbers every engineer should know | [x] |
 | 02 | Scaling reads vs writes | [x] |
-| 03 | Stateless vs stateful services | [ ] |
+| 03 | Stateless vs stateful services | [x] |
 
 ## Module 1: Foundations
 
