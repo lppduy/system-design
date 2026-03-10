@@ -65,7 +65,7 @@ Concepts that appear in almost every system design.
 |---|-------|--------|
 | 01 | Load balancing | [x] |
 | 02 | Caching strategies | [x] |
-| 03 | Database replication | [ ] |
+| 03 | Database replication | [x] |
 | 04 | Database sharding | [ ] |
 | 05 | CAP theorem in practice | [ ] |
 | 06 | Consistent hashing | [ ] |
