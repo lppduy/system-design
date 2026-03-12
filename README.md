@@ -67,7 +67,7 @@ Concepts that appear in almost every system design.
 | 02 | Caching strategies | [x] |
 | 03 | Database replication | [x] |
 | 04 | Database sharding | [x] |
-| 05 | CAP theorem in practice | [ ] |
+| 05 | CAP theorem in practice | [x] |
 | 06 | Consistent hashing | [ ] |
 | 07 | Message queues | [ ] |
 | 08 | Rate limiting | [ ] |
