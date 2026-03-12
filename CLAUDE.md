@@ -45,3 +45,4 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M1-01 Load Balancing
 - [x] M1-02 Caching Strategies
 - [x] M1-03 Database Replication
+- [x] M1-04 Database Sharding
