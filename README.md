@@ -122,7 +122,7 @@ How famous systems actually work — not the marketing, the internals.
 | 03 | PostgreSQL | WAL, replication, MVCC | [x] |
 | 04 | Cloudflare | Anycast routing, DDoS, edge caching | [x] |
 | 05 | Elasticsearch | Inverted index, sharding, near real-time search | [ ] |
-| 06 | Nginx | Event-driven architecture, reverse proxy, load balancing | [ ] |
+| 06 | Nginx | Event-driven architecture, reverse proxy, load balancing | [x] |
 | 07 | RabbitMQ | AMQP protocol, exchanges, queues, acknowledgments | [ ] |
 | 08 | MongoDB | Document model, WiredTiger engine, replica sets | [ ] |
 | 09 | Kubernetes | Pod scheduling, etcd, service discovery | [ ] |
