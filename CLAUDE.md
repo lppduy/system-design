@@ -54,6 +54,7 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-01 Kafka Internals
 - [x] M5-01 Kafka Hands-On (CLI Walkthrough)
 - [x] M5-02 Redis Internals
+- [x] M5-03 PostgreSQL Internals
 
 ## Resume
-Module 1 complete. M5-01 Kafka + M5-02 Redis done. Next: M5-03 PostgreSQL.
+Module 1 complete. M5-01 Kafka + M5-02 Redis + M5-03 PostgreSQL done. Next: M5-04 Cloudflare.
