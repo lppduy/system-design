@@ -56,6 +56,7 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-02 Redis Internals
 - [x] M5-03 PostgreSQL Internals
 - [x] M5-04 Cloudflare Internals
+- [x] M5-12 Linux Kernel Networking
 
 ## Resume
-Module 1 complete. M5-01 to M5-04 done. Next: M5-05 Elasticsearch.
+Module 1 complete. M5-01 to M5-04 + M5-12 done. Next: M5-06 Nginx.

@@ -128,4 +128,4 @@ How famous systems actually work — not the marketing, the internals.
 | 09 | Kubernetes | Pod scheduling, etcd, service discovery | [ ] |
 | 10 | Docker | Namespaces, cgroups, overlay filesystem | [ ] |
 | 11 | Git | Content-addressable storage, DAG, merge strategies | [ ] |
-| 12 | Linux kernel (networking) | TCP stack, epoll, io_uring | [ ] |
+| 12 | Linux kernel (networking) | TCP stack, epoll, io_uring | [x] |
