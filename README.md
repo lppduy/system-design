@@ -121,3 +121,11 @@ How famous systems actually work — not the marketing, the internals.
 | 02 | Redis | Single-threaded event loop, persistence tradeoffs | [ ] |
 | 03 | PostgreSQL | WAL, replication, MVCC | [ ] |
 | 04 | Cloudflare | Anycast routing, DDoS, edge caching | [ ] |
+| 05 | Elasticsearch | Inverted index, sharding, near real-time search | [ ] |
+| 06 | Nginx | Event-driven architecture, reverse proxy, load balancing | [ ] |
+| 07 | RabbitMQ | AMQP protocol, exchanges, queues, acknowledgments | [ ] |
+| 08 | MongoDB | Document model, WiredTiger engine, replica sets | [ ] |
+| 09 | Kubernetes | Pod scheduling, etcd, service discovery | [ ] |
+| 10 | Docker | Namespaces, cgroups, overlay filesystem | [ ] |
+| 11 | Git | Content-addressable storage, DAG, merge strategies | [ ] |
+| 12 | Linux kernel (networking) | TCP stack, epoll, io_uring | [ ] |
