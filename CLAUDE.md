@@ -52,3 +52,6 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M1-08 Rate Limiting
 - [x] M1-09 Idempotency
 - [x] M5-01 Kafka Internals
+
+## Resume
+Module 1 complete. M5-01 Kafka done. Next: Kafka hands-on (CLI + app walkthrough with Docker), then continue M5-02 Redis.
