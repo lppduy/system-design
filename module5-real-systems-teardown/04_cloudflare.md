@@ -80,6 +80,45 @@ Cloudflare handles certificate management. Modes:
 - **Full:** Both HTTPS, but origin cert not validated
 - **Full (Strict):** Both HTTPS, origin cert validated (recommended)
 
+## Practical: Dev Workflow with Cloudflare
+
+### Setup
+1. Buy domain → add to Cloudflare → update nameservers at registrar
+2. Add DNS records: `A api 203.0.113.50 ☁️` (orange cloud = proxied)
+3. SSL mode → Full (Strict) + install Cloudflare Origin Certificate on VPS
+
+### Cache Headers in App Code (Spring Boot)
+```java
+// Public data — CF caches 5 min
+@GetMapping("/api/products")
+public ResponseEntity<List<Product>> list() {
+    return ResponseEntity.ok()
+        .header("Cache-Control", "public, s-maxage=300")
+        .body(productService.findAll());
+}
+
+// Private data — NEVER cache
+@GetMapping("/api/me")
+public ResponseEntity<User> me(@AuthenticationPrincipal User user) {
+    return ResponseEntity.ok()
+        .header("Cache-Control", "private, no-store")
+        .body(user);
+}
+```
+
+### Deploy: Purge Cache
+```bash
+curl -X POST "https://api.cloudflare.com/client/v4/zones/ZONE_ID/purge_cache" \
+  -H "Authorization: Bearer API_TOKEN" \
+  -d '{"purge_everything":true}'
+```
+
+### Rate Limiting (Dashboard)
+Rule: `/api/login` → 5 req/min per IP → block 10 min. Brute-force never reaches server.
+
+### Impact
+71% requests served from cache → $5 VPS handles traffic that would need $50 server.
+
 ## Interview Angles
 
 - "How does CDN reduce latency?" → Content cached at PoP near user. No round-trip to origin.
