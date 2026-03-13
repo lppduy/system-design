@@ -118,7 +118,7 @@ How famous systems actually work — not the marketing, the internals.
 | # | System | What we dissect | Status |
 |---|--------|----------------|--------|
 | 01 | Kafka | Sequential writes, zero-copy, consumer groups | [x] |
-| 02 | Redis | Single-threaded event loop, persistence tradeoffs | [ ] |
+| 02 | Redis | Single-threaded event loop, persistence tradeoffs | [x] |
 | 03 | PostgreSQL | WAL, replication, MVCC | [ ] |
 | 04 | Cloudflare | Anycast routing, DDoS, edge caching | [ ] |
 | 05 | Elasticsearch | Inverted index, sharding, near real-time search | [ ] |
