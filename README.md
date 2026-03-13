@@ -120,7 +120,7 @@ How famous systems actually work — not the marketing, the internals.
 | 01 | Kafka | Sequential writes, zero-copy, consumer groups | [x] |
 | 02 | Redis | Single-threaded event loop, persistence tradeoffs | [x] |
 | 03 | PostgreSQL | WAL, replication, MVCC | [x] |
-| 04 | Cloudflare | Anycast routing, DDoS, edge caching | [ ] |
+| 04 | Cloudflare | Anycast routing, DDoS, edge caching | [x] |
 | 05 | Elasticsearch | Inverted index, sharding, near real-time search | [ ] |
 | 06 | Nginx | Event-driven architecture, reverse proxy, load balancing | [ ] |
 | 07 | RabbitMQ | AMQP protocol, exchanges, queues, acknowledgments | [ ] |
