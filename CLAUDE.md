@@ -50,3 +50,4 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M1-06 Consistent Hashing
 - [x] M1-07 Message Queues
 - [x] M1-08 Rate Limiting
+- [x] M1-09 Idempotency

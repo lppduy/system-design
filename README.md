@@ -71,7 +71,7 @@ Concepts that appear in almost every system design.
 | 06 | Consistent hashing | [x] |
 | 07 | Message queues | [x] |
 | 08 | Rate limiting | [x] |
-| 09 | Idempotency | [ ] |
+| 09 | Idempotency | [x] |
 
 ## Module 2: Systems — Level 1
 
