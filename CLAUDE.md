@@ -60,6 +60,7 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-06 Nginx Internals
 - [x] M5-09 Kubernetes Internals
 - [x] M5-10 Docker Internals
+- [x] M5-05 Elasticsearch Internals
 
 ## Resume
-Module 1 complete. M5-01 to M5-04 + M5-06 + M5-09 + M5-10 + M5-12 done. Next: M5-05 Elasticsearch.
+Module 1 complete. M5-01 to M5-06, M5-09, M5-10, M5-12 done (9/12). Next: M5-07 RabbitMQ.
