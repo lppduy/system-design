@@ -58,6 +58,7 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-04 Cloudflare Internals
 - [x] M5-12 Linux Kernel Networking
 - [x] M5-06 Nginx Internals
+- [x] M5-09 Kubernetes Internals
 
 ## Resume
-Module 1 complete. M5-01 to M5-04 + M5-06 + M5-12 done. Next: M5-09 Kubernetes.
+Module 1 complete. M5-01 to M5-04 + M5-06 + M5-09 + M5-12 done. Next: M5-05 Elasticsearch or M5-10 Docker.
