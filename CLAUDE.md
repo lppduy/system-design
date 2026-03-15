@@ -71,16 +71,20 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 M0 (3/3), M1 (9/9), M5 (12/12), M2 (1/6). Total: 25/82. Next: M2-02 Rate Limiter.
 
 ## Curriculum Overview
+Core:
 - M0: Mental Models (3) — done
 - M1: Foundations (9) — done
+Classic Interview Systems:
 - M2: Systems Level 1 (6) — in progress
 - M3: Systems Level 2 (9)
 - M4: Systems Level 3 (9)
-- M5: Real Systems Teardown (12) — done
+Real Systems Teardown:
+- M5: How Real Systems Work (12) — done
+Domain Specializations:
 - M6: E-Commerce (8)
-- M7: AI/ML Systems (4)
-- M8: Fintech & Payments (7)
+- M7: Fintech & Payments (7)
+- M8: AI/ML Systems (4)
 - M9: Real-Time Systems (3)
-- M10: Observability & DevOps (5)
-- M11: Auth & Identity (3)
+- M10: Auth & Identity (3)
+- M11: Observability & DevOps (5)
 - M12: Data Platform (3)
