@@ -111,6 +111,84 @@ Ambiguous scope + production-scale complexity.
 | 06 | Live Streaming | Ingest, transcode, low latency | [ ] | [ ] |
 | 07 | Search Engine | Crawl, index, rank | [ ] | [ ] |
 
+## Module 6: E-Commerce (Full Depth)
+
+Every critical subsystem in an e-commerce platform — the system you build daily.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | Product Catalog & Search | Faceted search, inventory sync, SKU modeling | [ ] | [ ] |
+| 02 | Shopping Cart & Checkout | Cart persistence, price consistency, race conditions | [ ] | [ ] |
+| 03 | Order Processing Pipeline | State machine, saga pattern, partial failures | [ ] | [ ] |
+| 04 | Payment System | Exactly-once, idempotency, refunds, reconciliation | [ ] | [ ] |
+| 05 | Inventory Management | Distributed stock, overselling prevention, warehouse sync | [ ] | [ ] |
+| 06 | Pricing & Promotions | Coupon stacking, flash sales, price calculation engine | [ ] | [ ] |
+| 07 | Recommendation Engine | Collaborative filtering, real-time personalization | [ ] | [ ] |
+| 08 | Notification & Email | Transactional vs marketing, delivery guarantees, templating | [ ] | [ ] |
+
+## Module 7: AI/ML Systems
+
+Design systems that serve, train, and orchestrate ML models at scale.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | RAG Pipeline | Chunking, embedding, retrieval, hallucination reduction | [ ] | [ ] |
+| 02 | ML Feature Store | Online vs offline features, consistency, freshness | [ ] | [ ] |
+| 03 | Model Serving Platform | Latency, batching, A/B testing, canary deployment | [ ] | [ ] |
+| 04 | AI Agent Orchestration | Tool routing, memory, context management, guardrails | [ ] | [ ] |
+
+## Module 8: Fintech & Payments
+
+Money moves differently from data — every failure mode costs real dollars.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | Digital Wallet | Ledger design, double-entry, balance consistency | [ ] | [ ] |
+| 02 | Fraud Detection | Real-time scoring, feature engineering, false positives | [ ] | [ ] |
+| 03 | Reconciliation Engine | Cross-system matching, discrepancy detection, settlement | [ ] | [ ] |
+
+## Module 9: Real-Time Systems
+
+Low latency, high throughput, eventual consistency is not an option.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | Live Dashboard | WebSocket fan-out, aggregation, backpressure | [ ] | [ ] |
+| 02 | Collaborative Editor | CRDT vs OT, conflict resolution, cursor sync | [ ] | [ ] |
+| 03 | Multiplayer Game Server | State sync, lag compensation, client prediction | [ ] | [ ] |
+
+## Module 10: Observability & DevOps
+
+The systems that watch your systems.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | Logging Pipeline | Ingestion at scale, structured logs, retention, search | [ ] | [ ] |
+| 02 | Distributed Tracing | Context propagation, sampling, trace assembly | [ ] | [ ] |
+| 03 | Alerting System | Threshold vs anomaly, alert fatigue, escalation | [ ] | [ ] |
+| 04 | Feature Flag Platform | Gradual rollout, targeting rules, kill switch | [ ] | [ ] |
+| 05 | CI/CD at Scale | Pipeline orchestration, artifact management, blue-green | [ ] | [ ] |
+
+## Module 11: Auth & Identity
+
+Security architecture — the system everyone depends on, nobody wants to own.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | SSO & OAuth Provider | Token lifecycle, consent, refresh rotation | [ ] | [ ] |
+| 02 | RBAC/ABAC Authorization | Policy engine, permission inheritance, multi-tenant | [ ] | [ ] |
+| 03 | Multi-Tenant Platform | Data isolation, routing, tenant-aware caching | [ ] | [ ] |
+
+## Module 12: Data Platform
+
+From raw events to business insights.
+
+| # | System | Hardest Part | Mentor | Interview |
+|---|--------|-------------|--------|-----------|
+| 01 | ETL Pipeline | Exactly-once processing, schema evolution, backfill | [ ] | [ ] |
+| 02 | Data Lake / Warehouse | Partitioning, columnar storage, query optimization | [ ] | [ ] |
+| 03 | Real-Time Analytics | Stream processing, windowing, late-arriving data | [ ] | [ ] |
+
 ## Module 5: Real Systems Teardown
 
 How famous systems actually work — not the marketing, the internals.
