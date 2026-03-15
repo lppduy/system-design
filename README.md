@@ -83,6 +83,8 @@ Single hard problem per system. Good for warming up.
 | 02 | Rate Limiter | Distributed counter consistency | [ ] | [ ] |
 | 03 | Pastebin | Storage, expiry, access control | [ ] | [ ] |
 | 04 | Web Crawler | BFS at scale, deduplication | [ ] | [ ] |
+| 05 | Key-Value Store | Replication, consistency, partitioning | [ ] | [ ] |
+| 06 | Unique ID Generator | Distributed uniqueness, ordering, clock skew | [ ] | [ ] |
 
 ## Module 3: Systems — Level 2
 
@@ -96,6 +98,9 @@ Multiple interacting hard problems per system.
 | 04 | Ride-sharing (Uber) | Location updates, matching, ETA | [ ] | [ ] |
 | 05 | Typeahead Search | Low latency prefix search | [ ] | [ ] |
 | 06 | Ticket Booking | Concurrency, seat locking | [ ] | [ ] |
+| 07 | Proximity Service (Yelp) | Geospatial indexing, quadtree/geohash | [ ] | [ ] |
+| 08 | Ad Click Aggregation | Real-time counting, dedup, late events | [ ] | [ ] |
+| 09 | Metrics Monitoring | Time-series DB, downsampling, alerting | [ ] | [ ] |
 
 ## Module 4: Systems — Level 3
 
@@ -110,6 +115,8 @@ Ambiguous scope + production-scale complexity.
 | 05 | Distributed Cache (design Redis) | Eviction, persistence, clustering | [ ] | [ ] |
 | 06 | Live Streaming | Ingest, transcode, low latency | [ ] | [ ] |
 | 07 | Search Engine | Crawl, index, rank | [ ] | [ ] |
+| 08 | Stock Exchange | Order matching, low latency, fairness | [ ] | [ ] |
+| 09 | File Storage (S3) | Metadata vs data separation, replication, multipart upload | [ ] | [ ] |
 
 ## Module 6: E-Commerce (Full Depth)
 
@@ -144,8 +151,12 @@ Money moves differently from data — every failure mode costs real dollars.
 | # | System | Hardest Part | Mentor | Interview |
 |---|--------|-------------|--------|-----------|
 | 01 | Digital Wallet | Ledger design, double-entry, balance consistency | [ ] | [ ] |
-| 02 | Fraud Detection | Real-time scoring, feature engineering, false positives | [ ] | [ ] |
-| 03 | Reconciliation Engine | Cross-system matching, discrepancy detection, settlement | [ ] | [ ] |
+| 02 | Payment Gateway | Provider routing, retry logic, idempotency, PCI compliance | [ ] | [ ] |
+| 03 | Fraud Detection | Real-time scoring, feature engineering, false positives | [ ] | [ ] |
+| 04 | Reconciliation Engine | Cross-system matching, discrepancy detection, settlement | [ ] | [ ] |
+| 05 | Transfer System (P2P) | Atomicity across accounts, currency conversion, AML checks | [ ] | [ ] |
+| 06 | Lending Platform | Credit scoring, loan lifecycle, interest calculation, collections | [ ] | [ ] |
+| 07 | Trading Platform | Order book, matching engine, market data streaming | [ ] | [ ] |
 
 ## Module 9: Real-Time Systems
 
