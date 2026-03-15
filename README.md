@@ -113,7 +113,7 @@ Ambiguous scope + production-scale complexity.
 
 ## Module 6: E-Commerce (Full Depth)
 
-Every critical subsystem in an e-commerce platform — the system you build daily.
+Every critical subsystem in an e-commerce platform.
 
 | # | System | Hardest Part | Mentor | Interview |
 |---|--------|-------------|--------|-----------|
