@@ -151,7 +151,7 @@ Not the marketing — the internals.
 
 # Domain Specializations
 
-Pick based on career goals and interest.
+Pick based on interest.
 
 ## Module 6: E-Commerce
 
