@@ -79,7 +79,7 @@ Single hard problem per system. Good for warming up.
 
 | # | System | Hardest Part | Mentor | Interview |
 |---|--------|-------------|--------|-----------|
-| 01 | URL Shortener | ID generation at scale, read-heavy | [ ] | [ ] |
+| 01 | URL Shortener | ID generation at scale, read-heavy | [x] | [ ] |
 | 02 | Rate Limiter | Distributed counter consistency | [ ] | [ ] |
 | 03 | Pastebin | Storage, expiry, access control | [ ] | [ ] |
 | 04 | Web Crawler | BFS at scale, deduplication | [ ] | [ ] |

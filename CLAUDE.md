@@ -65,5 +65,7 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-08 MongoDB Internals
 - [x] M5-11 Git Internals
 
+- [x] M2-01 URL Shortener
+
 ## Resume
-Module 5 complete (12/12). All foundations done. Next: Module 2 (Systems Level 1).
+Module 2 started (1/4). Next: M2-02 Rate Limiter.
