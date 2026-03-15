@@ -127,5 +127,5 @@ How famous systems actually work — not the marketing, the internals.
 | 08 | MongoDB | Document model, WiredTiger engine, replica sets | [x] |
 | 09 | Kubernetes | Pod scheduling, etcd, service discovery | [x] |
 | 10 | Docker | Namespaces, cgroups, overlay filesystem | [x] |
-| 11 | Git | Content-addressable storage, DAG, merge strategies | [ ] |
+| 11 | Git | Content-addressable storage, DAG, merge strategies | [x] |
 | 12 | Linux kernel (networking) | TCP stack, epoll, io_uring | [x] |

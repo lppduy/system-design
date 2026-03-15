@@ -63,6 +63,7 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-05 Elasticsearch Internals
 - [x] M5-07 RabbitMQ Internals
 - [x] M5-08 MongoDB Internals
+- [x] M5-11 Git Internals
 
 ## Resume
-Module 1 complete. M5 at 11/12. Next: M5-11 Git Internals.
+Module 5 complete (12/12). All foundations done. Next: Module 2 (Systems Level 1).
