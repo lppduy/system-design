@@ -68,4 +68,19 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M2-01 URL Shortener
 
 ## Resume
-Module 2 started (1/4). Next: M2-02 Rate Limiter.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (1/6). Total: 25/82. Next: M2-02 Rate Limiter.
+
+## Curriculum Overview
+- M0: Mental Models (3) — done
+- M1: Foundations (9) — done
+- M2: Systems Level 1 (6) — in progress
+- M3: Systems Level 2 (9)
+- M4: Systems Level 3 (9)
+- M5: Real Systems Teardown (12) — done
+- M6: E-Commerce (8)
+- M7: AI/ML Systems (4)
+- M8: Fintech & Payments (7)
+- M9: Real-Time Systems (3)
+- M10: Observability & DevOps (5)
+- M11: Auth & Identity (3)
+- M12: Data Platform (3)
