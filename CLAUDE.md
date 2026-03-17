@@ -66,9 +66,10 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M5-11 Git Internals
 
 - [x] M2-01 URL Shortener
+- [x] M2-02 Rate Limiter
 
 ## Resume
-M0 (3/3), M1 (9/9), M5 (12/12), M2 (1/6). Total: 25/82. Next: M2-02 Rate Limiter.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (2/6). Total: 26/82. Next: M2-03 Pastebin.
 
 ## Curriculum Overview
 Core:
