@@ -96,7 +96,7 @@ Core:
 - M0: Mental Models (3) — done
 - M1: Foundations (9) — done
 Classic Interview Systems:
-- M2: Systems Level 1 (6) — in progress
+- M2: Systems Level 1 (7) — in progress
 - M3: Systems Level 2 (9)
 - M4: Systems Level 3 (9)
 Real Systems Teardown:
