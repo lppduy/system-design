@@ -69,8 +69,10 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M2-02 Rate Limiter
 - [x] M2-03 Pastebin
 
+- [x] M2-04 Web Crawler
+
 ## Resume
-M0 (3/3), M1 (9/9), M5 (12/12), M2 (3/6). Total: 27/82. Next: M2-04 Web Crawler.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (4/6). Total: 28/82. Next: M2-05.
 
 ## Curriculum Overview
 Core:
