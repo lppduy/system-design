@@ -25,13 +25,14 @@ Default is mentor until you've done a full pass on a system. Switch to interview
 ## Session Format
 
 ```
-1. Estimation      — QPS, storage, bandwidth. Derive the constraints first.
-2. Requirements    — functional + non-functional. Scope kills interviews.
-3. High-level      — components + data flow. No depth yet, just the skeleton.
-4. Deep dive       — bottlenecks, failure cases, tradeoffs. The real work.
-5. Why reasoning   — why this decision over alternatives? What breaks if you chose differently?
-6. Concepts        — theory behind the decisions (CAP, consistent hashing, etc.)
-7. Interview angle — how to present this in 45 min without getting lost
+1. Estimation      — QPS, storage, bandwidth. Derive constraints first.
+2. Requirements    — functional + non-functional. Clarify scope.
+3. High-level      — components + data flow. Skeleton only.
+4. Foundation      — new concepts needed for this system. Explain before deep dive.
+5. Deep dive       — bottlenecks, failure cases, tradeoffs.
+6. Why reasoning   — why this decision over alternatives? What breaks if you chose differently?
+7. Concepts        — theory behind the decisions made.
+8. Interview angle — how to present in 45 min.
 ```
 
 ---
