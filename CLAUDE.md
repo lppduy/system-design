@@ -70,9 +70,10 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M2-03 Pastebin
 
 - [x] M2-04 Web Crawler
+- [x] M2-05 Notification System
 
 ## Resume
-M0 (3/3), M1 (9/9), M5 (12/12), M2 (4/6). Total: 28/82. Next: M2-05.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (5/6). Total: 29/82. Next: M2-06.
 
 ## Foundation Concepts (Quick Reference)
 - **Estimation**: QPS = total_requests / seconds_in_period. Bandwidth = QPS × avg_size. Storage = total_items × avg_size.
