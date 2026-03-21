@@ -101,13 +101,12 @@ Multiple interacting hard problems per system.
 |---|--------|-------------|--------|-----------|
 | 01 | Twitter Feed | Fan-out, celebrity problem | [ ] | [ ] |
 | 02 | Chat System | Message ordering, presence | [ ] | [ ] |
-| 03 | Notification System | Fan-out at scale, delivery guarantees | [ ] | [ ] |
-| 04 | Ride-sharing (Uber) | Location updates, matching, ETA | [ ] | [ ] |
-| 05 | Typeahead Search | Low latency prefix search | [ ] | [ ] |
-| 06 | Ticket Booking | Concurrency, seat locking | [ ] | [ ] |
-| 07 | Proximity Service (Yelp) | Geospatial indexing, quadtree/geohash | [ ] | [ ] |
-| 08 | Ad Click Aggregation | Real-time counting, dedup, late events | [ ] | [ ] |
-| 09 | Metrics Monitoring | Time-series DB, downsampling, alerting | [ ] | [ ] |
+| 03 | Ride-sharing (Uber) | Location updates, matching, ETA | [ ] | [ ] |
+| 04 | Typeahead Search | Low latency prefix search | [ ] | [ ] |
+| 05 | Ticket Booking | Concurrency, seat locking | [ ] | [ ] |
+| 06 | Proximity Service (Yelp) | Geospatial indexing, quadtree/geohash | [ ] | [ ] |
+| 07 | Ad Click Aggregation | Real-time counting, dedup, late events | [ ] | [ ] |
+| 08 | Metrics Monitoring | Time-series DB, downsampling, alerting | [ ] | [ ] |
 
 ## Module 4: Systems — Level 3
 
