@@ -13,10 +13,11 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 1. Estimation      — QPS, storage, bandwidth. Derive constraints first.
 2. Requirements    — functional + non-functional. Clarify scope.
 3. High-level      — components + data flow. Skeleton only.
-4. Deep dive       — bottlenecks, failure cases, tradeoffs.
-5. Why reasoning   — why this decision over alternatives? What breaks if you chose differently?
-6. Concepts        — theory behind the decisions made.
-7. Interview angle — how to present in 45 min.
+4. Foundation      — new concepts needed for this system. Explain before deep dive.
+5. Deep dive       — bottlenecks, failure cases, tradeoffs.
+6. Why reasoning   — why this decision over alternatives? What breaks if you chose differently?
+7. Concepts        — theory behind the decisions made.
+8. Interview angle — how to present in 45 min.
 
 ## Teaching Style
 - Go deep on each system — full end-to-end first, then drill the hardest component
