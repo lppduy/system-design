@@ -87,8 +87,8 @@ Single hard problem per system. Good for warming up.
 |---|--------|-------------|--------|-----------|
 | 01 | URL Shortener | ID generation at scale, read-heavy | [x] | [ ] |
 | 02 | Rate Limiter | Distributed counter consistency | [x] | [ ] |
-| 03 | Pastebin | Storage, expiry, access control | [x] | [ ] |
-| 04 | Web Crawler | BFS at scale, deduplication | [x] | [ ] |
+| 03 | Pastebin | Storage, expiry, access control | [ ] | [ ] |
+| 04 | Web Crawler | BFS at scale, deduplication | [ ] | [ ] |
 | 05 | Key-Value Store | Replication, consistency, partitioning | [ ] | [ ] |
 | 06 | Unique ID Generator | Distributed uniqueness, ordering, clock skew | [ ] | [ ] |
 
@@ -100,7 +100,7 @@ Multiple interacting hard problems per system.
 |---|--------|-------------|--------|-----------|
 | 01 | Twitter Feed | Fan-out, celebrity problem | [ ] | [ ] |
 | 02 | Chat System | Message ordering, presence | [ ] | [ ] |
-| 03 | Notification System | Fan-out at scale, delivery guarantees | [x] | [ ] |
+| 03 | Notification System | Fan-out at scale, delivery guarantees | [ ] | [ ] |
 | 04 | Ride-sharing (Uber) | Location updates, matching, ETA | [ ] | [ ] |
 | 05 | Typeahead Search | Low latency prefix search | [ ] | [ ] |
 | 06 | Ticket Booking | Concurrency, seat locking | [ ] | [ ] |
