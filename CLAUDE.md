@@ -74,6 +74,21 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 ## Resume
 M0 (3/3), M1 (9/9), M5 (12/12), M2 (4/6). Total: 28/82. Next: M2-05.
 
+## Foundation Concepts (Quick Reference)
+- **Estimation**: QPS = total_requests / seconds_in_period. Bandwidth = QPS × avg_size. Storage = total_items × avg_size.
+- **Bit vs Byte**: 1 Byte = 8 bits. Network = bits/s (Mbps/Gbps). Data = Bytes (MB/GB/TB). Divide by 8 to convert.
+- **Object Storage (S3)**: Cheap (~$23/TB/mo), unlimited, GET/PUT only. Use for large blobs (images, HTML, video). No SQL queries.
+- **Database**: Expensive (~$100/TB/mo), structured data, SQL/indexes. Use for metadata, user data, anything you need to query.
+- **HDFS**: Self-hosted distributed file system. Splits files into 128MB blocks, 3x replication. Replaced by S3 in most companies.
+- **Bloom Filter**: Bit array + hash functions. O(1) membership check, ~10x less RAM than HashSet. Trade-off: 1-2% false positive, zero false negative. Can't delete.
+- **Push vs Pull**: Push = server initiates (push notification, WebSocket). Pull = client polls (email check, HTTP polling).
+- **APNs/FCM**: Apple/Google push services. App registers → gets device token → server sends notification via APNs/FCM → device receives.
+- **Message Queue**: Decouples producer/consumer, buffers during spikes, enables retry on failure. Kafka (persistent, replay), Redis (fast, simple).
+- **Idempotency**: Same operation applied multiple times = same result. Use unique IDs to dedup.
+- **Rate Limiting**: Prevent abuse/spam. Per user, per domain, per channel.
+- **Consistent Hashing**: Distribute load across nodes. Easy to add/remove nodes without reshuffling everything.
+- **Async I/O**: Handle many network calls concurrently without blocking threads. Essential for I/O-bound systems (crawlers, notification senders).
+
 ## Curriculum Overview
 Core:
 - M0: Mental Models (3) — done
