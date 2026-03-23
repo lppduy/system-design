@@ -92,7 +92,7 @@ Single hard problem per system. Good for warming up.
 | 04 | Web Crawler | BFS at scale, deduplication | [x] | [ ] |
 | 05 | Notification System | Fan-out at scale, delivery guarantees | [x] | [ ] |
 | 06 | Key-Value Store | Replication, consistency, partitioning | [x] | [ ] |
-| 07 | Unique ID Generator | Distributed uniqueness, ordering, clock skew | [ ] | [ ] |
+| 07 | Unique ID Generator | Distributed uniqueness, ordering, clock skew | [x] | [ ] |
 
 ## Module 3: Systems — Level 2
 
