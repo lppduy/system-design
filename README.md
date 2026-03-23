@@ -100,7 +100,7 @@ Multiple interacting hard problems per system.
 
 | # | System | Hardest Part | Mentor | Interview |
 |---|--------|-------------|--------|-----------|
-| 01 | Twitter Feed | Fan-out, celebrity problem | [ ] | [ ] |
+| 01 | Twitter Feed | Fan-out, celebrity problem | [x] | [ ] |
 | 02 | Chat System | Message ordering, presence | [ ] | [ ] |
 | 03 | Ride-sharing (Uber) | Location updates, matching, ETA | [ ] | [ ] |
 | 04 | Typeahead Search | Low latency prefix search | [ ] | [ ] |
