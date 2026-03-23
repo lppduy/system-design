@@ -76,9 +76,10 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M2-07 Unique ID Generator
 
 - [x] M3-01 Twitter Feed
+- [x] M3-02 Chat System
 
 ## Resume
-M0 (3/3), M1 (9/9), M5 (12/12), M2 (7/7), M3 (1/8). Total: 32/82. Next: M3-02 Chat System.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (7/7), M3 (2/8). Total: 33/82. Next: M3-03 Search Autocomplete.
 
 ## Foundation Concepts (Quick Reference)
 - **Estimation**: QPS = total_requests / seconds_in_period. Bandwidth = QPS × avg_size. Storage = total_items × avg_size.
