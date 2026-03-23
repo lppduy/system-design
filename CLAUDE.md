@@ -73,9 +73,10 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M2-04 Web Crawler
 - [x] M2-05 Notification System
 - [x] M2-06 Key-Value Store
+- [x] M2-07 Unique ID Generator
 
 ## Resume
-M0 (3/3), M1 (9/9), M5 (12/12), M2 (6/7). Total: 30/82. Next: M2-07 Unique ID Generator.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (7/7). Total: 31/82. M2 complete. Next: M3-01.
 
 ## Foundation Concepts (Quick Reference)
 - **Estimation**: QPS = total_requests / seconds_in_period. Bandwidth = QPS × avg_size. Storage = total_items × avg_size.
