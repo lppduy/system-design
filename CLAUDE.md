@@ -109,10 +109,12 @@ Classic Interview Systems:
 Real Systems Teardown:
 - M5: How Real Systems Work (12) — done
 Domain Specializations:
-- M6: E-Commerce (8)
+- M6: E-Commerce (8) — focus
 - M7: Fintech & Payments (7)
 - M8: AI/ML Systems (4)
 - M9: Real-Time Systems (3)
 - M10: Auth & Identity (3)
 - M11: Observability & DevOps (5)
 - M12: Data Platform (3)
+- M13: Online Gaming (6)
+- M14: Map & Geospatial Technology (5)
