@@ -79,9 +79,10 @@ Default to mentor mode until user has completed a full mentor pass on a system.
 - [x] M3-02 Chat System
 
 - [x] M6-01 Product Catalog & Search
+- [x] M6-02 Shopping Cart & Checkout
 
 ## Resume
-M0 (3/3), M1 (9/9), M5 (12/12), M2 (7/7), M3 (2/8), M6 (1/8). Total: 34/82. Next: M3-03 Search Autocomplete.
+M0 (3/3), M1 (9/9), M5 (12/12), M2 (7/7), M3 (2/8), M6 (2/8). Total: 35/82. Next: M6-03 Order Processing Pipeline.
 
 ## Foundation Concepts (Quick Reference)
 - **Estimation**: QPS = total_requests / seconds_in_period. Bandwidth = QPS × avg_size. Storage = total_items × avg_size.
